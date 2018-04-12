@@ -1,6 +1,29 @@
 {
   "refuelling_plate": {
-     "name": "Placa",
-     "type": "plate"
-   }
+    "name": "Placa",
+    "type": "plate"
+  },
+  "refuelling": {
+    "name": "Abastecimento"
+  },
+  "refuelling_km": {
+    "name": "Quilometragem",
+    "type": "mileage"
+  },
+  "refuelling_fuel_type": {
+    "name": "Tipo do combustível",
+    "type": "fuel"
+  },
+  "refuelling_price_per_liter": {
+    "name": "Preço por litro",
+    "type": "price"
+  },
+  "refuelling_amount": {
+    "name": "Preço do abastecimento",
+    "type": "price"
+  },
+  "refuelling_photo": {
+    "name": "Comprovante",
+    "type": "image"
+  }
 }
