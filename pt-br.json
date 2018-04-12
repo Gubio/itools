@@ -25,5 +25,9 @@
   "refuelling_photo": {
     "name": "Comprovante",
     "type": "image"
+  },
+  "foto": {
+    "name": "Foto",
+    "type": "image"
   }
 }
