@@ -32,5 +32,20 @@
   },
   "expertise": {
     "name": "Perícia"
+  },
+  "expertise_plate": {
+    "name": "Placa",
+    "type": "plate"
+  },
+  "expertise_foto": {
+    "name": "Foto",
+    "type": "image"
+  },
+  "expertise_km": {
+    "name": "Quilometragem",
+    "type": "mileage"
+  },
+  "expertise_damage_kind": {
+    "name": "Tipo de dano"
   }
 }
