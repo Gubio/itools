@@ -29,5 +29,8 @@
   "foto": {
     "name": "Foto",
     "type": "image"
+  },
+  "expertise": {
+    "name": "Pería"
   }
 }
