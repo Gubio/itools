@@ -206,5 +206,57 @@
     "meal_time": 43,
     "standby_time": 0,
     "unworked_time": 735
+  },
+  {
+    "start_journey": "2018-09-24T06:35:34.000-03:00",
+    "end_journey": "2018-09-24T19:03:22.000-03:00",
+    "day_journey": 747,
+    "night_journey": 0,
+    "extra_day_journey": 267,
+    "extra_night_journey": 0,
+    "driving_time": 607,
+    "rest_time": 0,
+    "meal_time": 73,
+    "standby_time": 67,
+    "unworked_time": 650
+  },
+  {
+    "start_journey": "2018-09-25T06:25:34.000-03:00",
+    "end_journey": "2018-09-25T18:33:22.000-03:00",
+    "day_journey": 727,
+    "night_journey": 0,
+    "extra_day_journey": 247,
+    "extra_night_journey": 0,
+    "driving_time": 652,
+    "rest_time": 0,
+    "meal_time": 75,
+    "standby_time": 0,
+    "unworked_time": 682
+  },
+  {
+    "start_journey": "2018-09-26T06:55:34.000-03:00",
+    "end_journey": "2018-09-26T18:10:22.000-03:00",
+    "day_journey": 674,
+    "night_journey": 0,
+    "extra_day_journey": 194,
+    "extra_night_journey": 0,
+    "driving_time": 585,
+    "rest_time": 0,
+    "meal_time": 63,
+    "standby_time": 26,
+    "unworked_time": 742
+  },
+  {
+    "start_journey": "2018-09-27T08:15:34.000-03:00",
+    "end_journey": "2018-09-27T19:05:22.000-03:00",
+    "day_journey": 649,
+    "night_journey": 0,
+    "extra_day_journey": 169,
+    "extra_night_journey": 0,
+    "driving_time": 567,
+    "rest_time": 42,
+    "meal_time": 40,
+    "standby_time": 0,
+    "unworked_time": 845
   }
 ]
