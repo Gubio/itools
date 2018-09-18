@@ -6,11 +6,11 @@
     "night_journey": 0,
     "extra_day_journey": 0,
     "extra_night_journey": 0,
-    "driving_time": 29,
-    "rest_time": 77,
+    "driving_time": 274,
+    "rest_time": 0,
     "meal_time": 72,
-    "standby_time": 89,
-    "unworked_time": 852
+    "standby_time": 0,
+    "unworked_time": 1052
   },
   {
     "start_journey": "2018-09-09T06:35:34.000-03:00",
@@ -19,10 +19,10 @@
     "night_journey": 0,
     "extra_day_journey": 267,
     "extra_night_journey": 0,
-    "driving_time": 828,
+    "driving_time": 607,
     "rest_time": 0,
-    "meal_time": 0,
-    "standby_time": 0,
+    "meal_time": 73,
+    "standby_time": 67,
     "unworked_time": 650
   },
   {
@@ -32,9 +32,9 @@
     "night_journey": 0,
     "extra_day_journey": 247,
     "extra_night_journey": 0,
-    "driving_time": 828,
+    "driving_time": 652,
     "rest_time": 0,
-    "meal_time": 0,
+    "meal_time": 75,
     "standby_time": 0,
     "unworked_time": 682
   },
@@ -45,10 +45,10 @@
     "night_journey": 0,
     "extra_day_journey": 194,
     "extra_night_journey": 0,
-    "driving_time": 828,
+    "driving_time": 585,
     "rest_time": 0,
-    "meal_time": 0,
-    "standby_time": 0,
+    "meal_time": 63,
+    "standby_time": 26,
     "unworked_time": 742
   },
   {
@@ -58,9 +58,9 @@
     "night_journey": 0,
     "extra_day_journey": 169,
     "extra_night_journey": 0,
-    "driving_time": 828,
-    "rest_time": 0,
-    "meal_time": 0,
+    "driving_time": 567,
+    "rest_time": 42,
+    "meal_time": 40,
     "standby_time": 0,
     "unworked_time": 845
   },
@@ -71,10 +71,10 @@
     "night_journey": 0,
     "extra_day_journey": 199,
     "extra_night_journey": 0,
-    "driving_time": 828,
+    "driving_time": 606,
     "rest_time": 0,
-    "meal_time": 0,
-    "standby_time": 0,
+    "meal_time": 55,
+    "standby_time": 18,
     "unworked_time": 667
   },
   {
@@ -84,9 +84,9 @@
     "night_journey": 0,
     "extra_day_journey": 250,
     "extra_night_journey": 0,
-    "driving_time": 828,
+    "driving_time": 629,
     "rest_time": 0,
-    "meal_time": 0,
+    "meal_time": 101,
     "standby_time": 0,
     "unworked_time": 852
   },
@@ -97,9 +97,9 @@
     "night_journey": 0,
     "extra_day_journey": 169,
     "extra_night_journey": 0,
-    "driving_time": 828,
-    "rest_time": 0,
-    "meal_time": 0,
+    "driving_time": 583,
+    "rest_time": 23,
+    "meal_time": 43,
     "standby_time": 0,
     "unworked_time": 735
   }
