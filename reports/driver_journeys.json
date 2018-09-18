@@ -62,7 +62,7 @@
     "rest_time": 0,
     "meal_time": 0,
     "standby_time": 0,
-    "unworked_time": 8725
+    "unworked_time": 845
   },
   {
     "start_journey": "2018-09-13T06:12:34.000-03:00",
@@ -75,7 +75,7 @@
     "rest_time": 0,
     "meal_time": 0,
     "standby_time": 0,
-    "unworked_time": 8725
+    "unworked_time": 667
   },
   {
     "start_journey": "2018-09-14T07:44:34.000-03:00",
@@ -88,7 +88,7 @@
     "rest_time": 0,
     "meal_time": 0,
     "standby_time": 0,
-    "unworked_time": 8725
+    "unworked_time": 852
   },
   {
     "start_journey": "2018-09-15T08:10:34.000-03:00",
@@ -101,6 +101,6 @@
     "rest_time": 0,
     "meal_time": 0,
     "standby_time": 0,
-    "unworked_time": 8725
+    "unworked_time": 735
   }
 ]
